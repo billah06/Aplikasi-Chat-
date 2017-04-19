@@ -1,3 +1,10 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package cs;
+
 import java.awt.event.ActionEvent;
 import java.awt.Dimension;
 import java.awt.Toolkit;
@@ -12,15 +19,17 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
-/*
- * ClientChat.java
- * Copyright (C) 2016 Rizki Mufrizal <mufrizalrizki@gmail.com>
- *
- * Distributed under terms of the MIT license.
+/**
+ * 
+ * @author love
  */
 
 public class ClientChat {
-
+    
+     /**
+     * @param args the command line arguments
+     */
+    
     private BufferedReader bufferedReader;
     private PrintWriter printWriter;
     private JFrame jFrame = new JFrame("Aplikasi chat");
