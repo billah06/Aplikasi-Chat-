@@ -1,7 +1,9 @@
-# Aplikasi-Chat-
-Socket Programming
+#Aplikasi Chat
+Socket Programming dengan menggunakan bahasa java
 
-Install JDK
-Install Netbeans
+1. Progarmming JDK, Netbeans dan MySql
+2. SO, Ubuntu Studio
+3. Load Balacing
+4. Accelerator Server
 
-Banyak2 doa
+
